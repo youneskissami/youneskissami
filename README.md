@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**youneskissami/youneskissami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a production liquid operator at Belcolade, where precision, consistency, quality control, and problem-solving are part of my daily work.
 
-Here are some ideas to get you started:
+Recently, I started learning C# and .NET from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to combine my real-world production experience with software development, automation, DevOps, and cloud technologies.
+
+Right now I’m still a beginner, so this GitHub is mainly a place where I document my progress, build projects, learn in public, and improve step by step.
+
+## Current Focus
+- C#
+- .NET
+- Backend Development
+- SQL
+- Git & GitHub
+- Docker
+- DevOps fundamentals
+
+## Goals
+- Build real projects
+- Learn software architecture
+- Deploy applications
+- Learn DevOps & cloud
+- Become a professional .NET developer
+
+If this sounds of interest to you, please consider following along. 
+
+— Younes
