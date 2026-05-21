@@ -1,29 +1,31 @@
 # Hello 👋
 
-I work as a production liquid operator at Belcolade, where precision, consistency, quality control, and problem-solving are part of my daily work.
+I currently work as a Production Liquid Operator, where precision, consistency, quality control, and problem-solving are part of my daily work.
 
-Recently, I started learning C# and .NET from scratch.
+Alongside my job, I’m transitioning into software engineering and learning C# and .NET from the ground up.
 
-My goal is to combine my real-world production experience with software development, automation, DevOps, and cloud technologies.
+My long-term goal is to combine real-world production and operational experience with backend development, automation, DevOps, cloud infrastructure, and systems engineering.
 
-Right now I’m still a beginner, so this GitHub is mainly a place where I document my progress, build projects, learn in public, and improve step by step.
+This GitHub documents my learning journey through hands-on projects, experimentation, and continuous improvement.
 
 ## Current Focus
 - C#
 - .NET
 - Backend Development
-- SQL
+- SQL & Databases
 - Git & GitHub
+- Linux
 - Docker
-- DevOps fundamentals
+- DevOps Fundamentals
 
 ## Goals
-- Build real projects
-- Learn software architecture
-- Deploy applications
-- Learn DevOps & cloud
-- Become a professional .NET developer
+- Build real-world backend projects
+- Strengthen programming fundamentals
+- Learn software architecture and system design
+- Deploy and maintain applications
+- Develop cloud and DevOps skills
+- Become a professional .NET backend engineer
 
-If this sounds of interest to you, please consider following along. 
+Thanks for visiting my profile.
 
 — Younes
