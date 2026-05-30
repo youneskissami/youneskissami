@@ -1,6 +1,6 @@
 Just a guy learning C# and .NET with a focus on backend development.
 
-This GitHub documents my learning journey through projects and hands-on practice.
+This GitHub documents my learning journey through learning, projects and hands-on practice.
 
 Fun Facts
 - I work as operator running chocolate production lines
